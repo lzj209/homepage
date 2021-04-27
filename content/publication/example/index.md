@@ -16,7 +16,7 @@ abstract: >
   learning method to learn joint representations among different modalities as
   well as generate informative and fluent responses by leveraging the
   pre-trained language model. 
-draft: true
+draft: false
 featured: true
 tags: []
 slides: ""
@@ -24,7 +24,7 @@ url_pdf: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 summary: ""
 url_dataset: ""
 url_project: ""
