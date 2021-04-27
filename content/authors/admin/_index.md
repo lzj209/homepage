@@ -35,4 +35,3 @@ Hello, I'm currently a third-year undergraduate student in the Department of Com
 
 Currently, I'm affiliated with [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/), advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/), working on Natural Language Processing research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
