@@ -11,11 +11,21 @@ authors:
   - Yang Feng
   - Jie Zhou
 publication_short: ""
-abstract: >
-  We propose a universal multimodal transformer and introduce the multi-task
-  learning method to learn joint representations among different modalities as
-  well as generate informative and fluent responses by leveraging the
-  pre-trained language model. 
+abstract: "Audio-Visual Scene-Aware Dialog (AVSD) is a task to generate
+  responses when chatting about a given video, which is organized as a track of
+  the Dialog System Technology Challenge (DSTC8). There are two challenges in
+  this task: 1) making effective interaction among different modalities; 2)
+  better understanding dialogues and generating informative responses. To tackle
+  the challenges, we propose a universal multimodal transformer and introduce
+  the multi-task learning method to learn joint representations among different
+  modalities as well as generate informative and fluent responses by leveraging
+  the pre-trained language model. Our method extends the natural language
+  generation pre-trained model to multimodal dialogue generation task, which
+  allows fine-tuning language models to capture information across both visual
+  and textual modalities. Our system achieves the best performance in the
+  objective evaluation in both DSTC7-AVSD and DSTC8-AVSD dataset and achieves an
+  impressive 98.4% of the human performance based on human ratings in the
+  DSTC8-AVSD challenge."
 draft: false
 featured: false
 tags: []
