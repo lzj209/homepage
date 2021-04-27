@@ -1,8 +1,7 @@
 ---
 title: Zongjia Li
 role: Undergraduate Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Natural Language Processing and Machine Learning
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -24,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: http://english.pku.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -41,9 +40,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Hello, I'm currently a third-year undergraduate student in the Department of Computer Science at Peking University. My research interests include Natural Language Processing and Machine Learning.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I'm affiliated with [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/), advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
