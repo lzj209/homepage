@@ -1,6 +1,5 @@
 ---
-title: "Bridging text and video: A universal multimodal transformer for
-  video-audio scene-aware dialog"
+title: "WeChat AI's Submission for DSTC9 Interactive Dialogue Evaluation Track"
 publication_types:
   - "2"
   - "1"
@@ -30,7 +29,7 @@ draft: false
 featured: false
 tags: []
 slides: ""
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/9376902"
+url_pdf: "https://arxiv.org/pdf/2101.07947.pdf"
 image:
   caption: ""
   focal_point: ""
@@ -48,5 +47,5 @@ date: 2021-03-12T00:00:00.000Z
 url_slides: ""
 publishDate: 2021-03-12T00:00:00.000Z
 url_poster: ""
-url_code: "https://github.com/ictnlp/DSTC8-AVSD"
+url_code: ""
 ---
