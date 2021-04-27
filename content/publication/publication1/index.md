@@ -3,7 +3,6 @@ title: "Bridging text and video: A universal multimodal transformer for
   video-audio scene-aware dialog"
 publication_types:
   - "2"
-  - "1"
 authors:
   - Zekang Li
   - Zongjia Li
@@ -30,7 +29,7 @@ draft: false
 featured: false
 tags: []
 slides: ""
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/9376902"
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
