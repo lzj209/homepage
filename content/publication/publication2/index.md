@@ -36,7 +36,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: AAAI2021 Workshop
+publication: AAAI2021 DSTC9 Workshop
 projects: []
 date: 2021-01-20T00:00:00.000Z
 url_slides: ""
