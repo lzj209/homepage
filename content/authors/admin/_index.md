@@ -8,7 +8,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: zongjiali@pku.edu.cn
+    link: mailto:zongjiali@pku.edu.cn
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Io59D1sAAAAJ
