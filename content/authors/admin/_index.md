@@ -3,9 +3,8 @@ title: Zongjia Li
 role: Undergraduate Student
 bio: My research interests include Natural Language Processing and Machine Learning
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
