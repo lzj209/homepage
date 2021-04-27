@@ -1,7 +1,6 @@
 ---
-title: "WeChat AI's Submission for DSTC9 Interactive Dialogue Evaluation Track"
+title: WeChat AI's Submission for DSTC9 Interactive Dialogue Evaluation Track
 publication_types:
-  - "2"
   - "1"
 authors:
   - Zekang Li
@@ -10,26 +9,22 @@ authors:
   - Yang Feng
   - Jie Zhou
 publication_short: ""
-abstract: "Audio-Visual Scene-Aware Dialog (AVSD) is a task to generate
-  responses when chatting about a given video, which is organized as a track of
-  the Dialog System Technology Challenge (DSTC8). There are two challenges in
-  this task: 1) making effective interaction among different modalities; 2)
-  better understanding dialogues and generating informative responses. To tackle
-  the challenges, we propose a universal multimodal transformer and introduce
-  the multi-task learning method to learn joint representations among different
-  modalities as well as generate informative and fluent responses by leveraging
-  the pre-trained language model. Our method extends the natural language
-  generation pre-trained model to multimodal dialogue generation task, which
-  allows fine-tuning language models to capture information across both visual
-  and textual modalities. Our system achieves the best performance in the
-  objective evaluation in both DSTC7-AVSD and DSTC8-AVSD dataset and achieves an
-  impressive 98.4% of the human performance based on human ratings in the
-  DSTC8-AVSD challenge."
+abstract: We participate in the DSTC9 Interactive Dialogue Evaluation Track
+  (Gunasekara et al. 2020) sub-task 1 (Knowledge Grounded Dialogue) and sub-task
+  2 (Interactive Dialogue). In sub-task 1, we employ a pre-trained language
+  model to generate topic-related responses and propose a response ensemble
+  method for response selection. In sub-task2, we propose a novel Dialogue
+  Planning Model (DPM) to capture conversation flow in the interaction with
+  humans. We also design an integrated open-domain dialogue system containing
+  pre-process, dialogue model, scoring model, and post-process, which can
+  generate fluent, coherent, consistent, and humanlike responses. We tie 1st on
+  human ratings and also get the highest Meteor, and Bert-score in sub-task 1,
+  and rank 3rd on interactive human evaluation in sub-task 2.
 draft: false
 featured: false
 tags: []
 slides: ""
-url_pdf: "https://arxiv.org/pdf/2101.07947.pdf"
+url_pdf: https://arxiv.org/pdf/2101.07947.pdf
 image:
   caption: ""
   focal_point: ""
@@ -41,9 +36,9 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+publication: AAAI2021 Workshop
 projects: []
-date: 2021-03-12T00:00:00.000Z
+date: 2021-01-20T00:00:00.000Z
 url_slides: ""
 publishDate: 2021-03-12T00:00:00.000Z
 url_poster: ""
