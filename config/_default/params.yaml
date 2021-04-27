@@ -26,10 +26,6 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:live:.cid.15fade3a4aa4d01d?call'
-  - icon: telegram 
-    icon_pack: fas
-    name: Chat on tg
-    link: 't.me/noct_li'
 
 # Site header
 
