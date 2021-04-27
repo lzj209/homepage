@@ -40,7 +40,7 @@ publication: AAAI2021 DSTC9 Workshop
 projects: []
 date: 2021-01-20T00:00:00.000Z
 url_slides: ""
-publishDate: 2021-03-12T00:00:00.000Z
+publishDate: 2021-01-20T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

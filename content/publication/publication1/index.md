@@ -41,7 +41,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: ""
+doi: "10.1109/TASLP.2021.3065823"
 publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 projects: []
 date: 2021-03-12T00:00:00.000Z
