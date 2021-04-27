@@ -17,7 +17,7 @@ abstract: >
   well as generate informative and fluent responses by leveraging the
   pre-trained language model. 
 draft: false
-featured: true
+featured: false
 tags: []
 slides: ""
 url_pdf: ""
