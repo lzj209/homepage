@@ -1,11 +1,6 @@
 ---
-abstract: >
-  We propose a universal multimodal transformer and introduce the multi-task
-  learning method to learn joint representations among different modalities as
-  well as generate informative and fluent responses by leveraging the
-  pre-trained language model. 
-slides: ""
-url_pdf: ""
+title: "Bridging text and video: A universal multimodal transformer for
+  video-audio scene-aware dialog"
 publication_types:
   - "2"
   - "1"
@@ -15,24 +10,30 @@ authors:
   - Jinchao Zhang
   - Yang Feng
   - Jie Zhou
-author_notes: []
-publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing
-summary: ""
-url_dataset: ""
-url_project: ""
 publication_short: ""
-url_source: ""
-url_video: ""
-title: "Bridging text and video: A universal multimodal transformer for
-  video-audio scene-aware dialog"
-doi: ""
+abstract: >
+  We propose a universal multimodal transformer and introduce the multi-task
+  learning method to learn joint representations among different modalities as
+  well as generate informative and fluent responses by leveraging the
+  pre-trained language model. 
+draft: true
 featured: true
 tags: []
-projects: []
+slides: ""
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+projects: []
 date: 2021-03-12T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
