@@ -30,7 +30,7 @@ draft: false
 featured: false
 tags: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9376902"
 image:
   caption: ""
   focal_point: ""
@@ -46,9 +46,9 @@ publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 projects: []
 date: 2021-03-12T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-03-12T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/ictnlp/DSTC8-AVSD"
 ---
 
 {{% callout note %}}
