@@ -7,7 +7,7 @@ experience:
     company: WeChat AI, Tencent Inc, China
     company_url: "https://ai.weixin.qq.com/#home"
     company_logo: org-tx
-    location: Peking
+    location: Beijing
     date_start: 2019-07-02
     date_end: 2020-11-03
     description: Engaged in NLP and ML research, mainly focusing on dialogue, meta-learning and GNN. 
