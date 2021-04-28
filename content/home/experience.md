@@ -6,7 +6,7 @@ experience:
   - title: NLP research intern
     company: WeChat AI, Tencent Inc, China
     company_url: "https://ai.weixin.qq.com/#home"
-    company_logo: org-tx
+    company_logo: org-wx
     location: Beijing
     date_start: 2019-07-02
     date_end: 2020-11-03
