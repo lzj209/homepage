@@ -3,9 +3,7 @@ title: Zongjia Li
 role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Natural Language Processing
-  - Machine Learning
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
