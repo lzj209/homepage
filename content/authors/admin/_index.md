@@ -2,7 +2,7 @@
 title: Zongjia Li
 role: Undergraduate Student
 avatar_filename: avatar.jpg
-bio: My research interests include Natural Language Processing and Machine Learning
+bio: ""
 interests:
   - Natural Language Processing
   - Machine Learning
@@ -31,7 +31,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hello, I'm currently a third-year undergraduate student in the Department of Computer Science at Peking University. My research interests include Natural Language Processing and Machine Learning.
-
-Currently, I'm affiliated with [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/), advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/), working on Natural Language Processing research.
-
+Hello, I'm currently a third-year undergraduate student in the Department of Computer Science at Peking University.
